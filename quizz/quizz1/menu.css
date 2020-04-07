@@ -1,0 +1,18 @@
+link ul li a{
+    margin-right: 50%;
+    text-decoration: none;
+}
+
+body{
+    /* background-color: #FF4080; */
+    background-color: red;
+}
+button{
+    background-color: #FF4080;
+
+}
+
+.header{
+    width:100%;
+    position :absolute;
+}
